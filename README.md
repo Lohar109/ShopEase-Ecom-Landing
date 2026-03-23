@@ -2,6 +2,8 @@
 
 **ShopEase** is a premium, minimalist landing page built with a focus on clean structure, modern aesthetics, and professional coding standards. This project serves as the high-quality UI/UX foundation for a full-scale e-commerce application.
 
+**🔗 [Developer Workflow](https://shopease-ecom-landing.onrender.com)**
+
 ---
 
 ## ✨ Key Features
