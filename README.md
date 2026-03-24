@@ -1,4 +1,4 @@
-# 🛒 ShopEase - Modern E-Commerce Landing Page
+# 🛒 ShopEase - Modern E-Commerce Landing Page 
 
 **ShopEase** is a premium, minimalist landing page built with a focus on clean structure, modern aesthetics, and professional coding standards. This project serves as the high-quality UI/UX foundation for a full-scale e-commerce application.
 
