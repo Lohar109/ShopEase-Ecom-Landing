@@ -45,6 +45,16 @@ nav {
     padding: 1.25rem 2rem;
 }
 
+/* nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 1 auto;
+    padding: 1.25rem 2rem;
+} 
+*/
+
 .logo a {
     text-decoration: none;
     color: var(--primary-color);
