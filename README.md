@@ -1,12 +1,12 @@
-# 🛒 ShopEase - Modern E-Commerce Landing Page
+# ShopEase - Modern E-Commerce Landing Page
 
 **ShopEase** is a premium, minimalist landing page built with a focus on clean structure, modern aesthetics, and professional coding standards. This project serves as the high-quality UI/UX foundation for a full-scale e-commerce application.
 
-**🔗 [ShopEase](https://shopease-ecom-landing.onrender.com)**
+** [ShopEase](https://shopease-ecom-landing.onrender.com)**
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### **1. Semantic Architecture**
 * Built using **HTML5 semantic tags** (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`) to provide a clear structure for search engines and accessibility tools.
@@ -26,14 +26,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **HTML5**: Core structure and semantic markup.
 * **CSS3**: Modern layouts using **Flexbox** and **Grid**, featuring smooth transitions and a premium color palette.
 * **Google Fonts**: 'Poppins' for a professional and readable typography.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **Header**: Logo, Search Bar, and Nav Links.
 * **Hero Section**: A bold call-to-action area with a "Shop Now" button to grab user attention.
 * **Categories**: Quick-access cards for Beauty, Electronics, Fashion, Home, and more.
@@ -42,12 +42,12 @@
 
 ---
 
-## 📈 Future Roadmap
+## Future Roadmap
 * **JavaScript Interactivity**: Implementing a dynamic cart counter and product filtering.
 * **Data Persistence**: Using `localStorage` to save user preferences and cart items.
 * **Backend Integration**: Connecting to a database for real-time inventory management.
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Vaibhav Lohar** MCA Candidate | Full-Stack Developer
